@@ -1,6 +1,6 @@
 # Amazon.com clone
 
-Welcome to the repository for my clone on Amazon.com! This website is designed to showcase my skills, projects, and experiences.
+Welcome to the repository for my clone of Amazon.com! This website is designed to showcase my skills, projects, and experiences.
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
