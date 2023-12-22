@@ -27,7 +27,6 @@ If you have suggestions, enhancements, or bug fixes, please feel free to open an
 Feel free to reach out if you have any questions or feedback:
 
 - Email: sanskar.sk1239@gmail.com
-- LinkedIn: [Sanskar Kannurkar](https://www.linkedin.com/in/sanskar-kannurkar/)
 
 You can visit my website from following link [Amazon.com](https://scar2603.github.io/Amazon-clone/)
 
